@@ -8,10 +8,6 @@ yum install -y https://centos7.iuscommunity.org/ius-release.rpm
 
 yum -y install git python36u python36u-pip python36u-devel java-1.8.0-openjdk wget
 
-git clone https://github.com/lcardiano/mbaBigData.git /opt/mbaBigData
-
-cd /opt/mbaBigData/
-
 pip3.6 install jupyter
 
 systemctl stop firewalld
