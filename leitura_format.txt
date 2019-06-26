@@ -1,0 +1,10 @@
+        /administrator/index.php =>   540257
+          /apache-log/access.log =>   287604
+                 /administrator/ =>    58045
+                               / =>    22765
+/templates/_system/css/general.css =>    20056
+http://almhuette-raith.at/administrator/index.php =>    18009
+                     /robots.txt =>    11028
+                    /favicon.ico =>     7875
+                   /wp-login.php =>     6355
+/images/stories/slideshow/almhuette_raith_01.jpg =>     5586

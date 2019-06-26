@@ -1,0 +1,15 @@
+19/06/26 09:11:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[Stage 0:>                                                          (0 + 1) / 8][Stage 0:>                                                          (0 + 2) / 8][Stage 0:==============>                                            (2 + 1) / 8][Stage 0:======================>                                    (3 + 1) / 8][Stage 0:=============================>                             (4 + 1) / 8][Stage 0:====================================>                      (5 + 1) / 8][Stage 0:============================================>              (6 + 1) / 8][Stage 0:===================================================>       (7 + 1) / 8]                                                                                [Stage 1:>                                                          (0 + 1) / 8][Stage 1:=======>                                                   (1 + 1) / 8][Stage 1:==============>                                            (2 + 1) / 8][Stage 1:======================>                                    (3 + 1) / 8][Stage 1:=============================>                             (4 + 1) / 8][Stage 1:====================================>                      (5 + 1) / 8][Stage 1:============================================>              (6 + 1) / 8][Stage 1:===================================================>       (7 + 1) / 8]                                                                                Lines : 1295293
+        /administrator/index.php =>   540257
+          /apache-log/access.log =>   287604
+                 /administrator/ =>    58045
+                               / =>    22765
+/templates/_system/css/general.css =>    20056
+http://almhuette-raith.at/administrator/index.php =>    18009
+                     /robots.txt =>    11028
+                    /favicon.ico =>     7875
+                   /wp-login.php =>     6355
+/images/stories/slideshow/almhuette_raith_01.jpg =>     5586

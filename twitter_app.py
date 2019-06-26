@@ -45,4 +45,5 @@ print("Waiting for TCP connection...")
 conn, addr = s.accept()
 print("Connected... Starting getting tweets.")
 resp = get_tweets()
-send_tweets_to_spark(resp, conn)
+send_tweets_to_spark(resp, conn)teste
+last
